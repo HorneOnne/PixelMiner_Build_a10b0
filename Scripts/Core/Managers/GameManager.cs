@@ -1,0 +1,22 @@
+﻿using UnityEngine;
+namespace PixelMiner.Core
+{
+    public class GameManager : MonoBehaviour
+    {
+        public static GameManager Instance { get; private set; }
+
+        private void Awake()
+        {
+            Instance = this;
+        }
+
+        private void Start()
+        {
+ 
+        }
+
+
+    
+    }
+
+}

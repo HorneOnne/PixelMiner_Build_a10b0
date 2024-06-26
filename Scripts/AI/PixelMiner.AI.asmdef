@@ -1,0 +1,17 @@
+{
+    "name": "PixelMiner.AI",
+    "rootNamespace": "PixelMiner.AI",
+    "references": [
+        "GUID:071f599dd08b7ff409d0b038d5fefd2d",
+        "GUID:6a81283e11ef63341ac2bd3e6f2eff5c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

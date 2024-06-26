@@ -1,0 +1,16 @@
+{
+    "name": "PixelMiner.Tools",
+    "rootNamespace": "PixelMiner.Tools",
+    "references": [
+        "GUID:6a81283e11ef63341ac2bd3e6f2eff5c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

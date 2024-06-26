@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a27c63228b4fcc94bb58f06a91872184, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  ID: 1003
+  ItemName: Sword
+  Icon: {fileID: 893804736, guid: bd3c11bfca2a89d42bec09b073894821, type: 3}
+  MaxUses: 2048
+  MaxStack: 1
+  Center: {x: 0, y: 0, z: 0}
+  BoundSize: {x: 1, y: 1, z: 1}
+  Mass: 0.2
+  Texture: {fileID: 0}
+  OffsetPosition: {x: 0, y: 0, z: 0}
+  RotateAngles: {x: 60, y: 0, z: 0}
