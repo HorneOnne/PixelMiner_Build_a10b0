@@ -9,7 +9,7 @@ I'm still working on this from time to time and plan to add many features like c
   + Chunk-based system
   + Resource distribution using Poisson Disc sampling algorithm
   + Multifractal simplex noise generation, biomes, structures,...
-  + Optimize transparent mesh using Greedy-meshing
+  + Optimize transparent meshes using Greedy-meshing
 - Can add or remove blocks.
 - Block Light calculation
    + CPU base-lighting (Breadth-first search)
@@ -20,3 +20,4 @@ I'm still working on this from time to time and plan to add many features like c
   + DDA voxel traversal
 - 3D A* pathfinding
 - Simple hotbar inventory
+- Water/lave flow generation/removal from source and physics
