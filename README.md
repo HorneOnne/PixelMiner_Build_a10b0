@@ -52,3 +52,8 @@ I'm still working on this from time to time and plan to add many features like c
 
 ### Day/night cycles
 ![media7 (1)](https://github.com/HorneOnne/PixelMiner_Build_a10b0/assets/65548001/8c8ec199-7ef3-4c81-9d55-3d1f10dc1dbd)
+
+
+### 3D A* pathfinding
+![0703](https://github.com/HorneOnne/PixelMiner_Build_a10b0/assets/65548001/72d693d7-1132-4ed2-8fc3-2be0de72b72d)
+
