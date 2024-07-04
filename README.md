@@ -5,3 +5,18 @@ I'm still working on this from time to time and plan to add many features like c
 
 ## Features
 - Multithreading world generation/meshing/lighting using Task Parallel Library (TPL).
+- Generation
+  + Chunk-based system
+  + Resource distribution using Poisson Disc sampling algorithm
+  + Multifractal simplex noise generation, biomes, structures,...
+  + Optimize transparent mesh using Greedy-meshing
+- Can add or remove blocks.
+- Block Light calculation
+   + CPU base-lighting (Breadth-first search)
+   + Support RGB color, as well as skylight
+   + Voxel ambient occlusion
+- Physics:
+  + AABB collision detection
+  + DDA voxel traversal
+- 3D A* pathfinding
+- Simple hotbar inventory
