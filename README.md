@@ -37,9 +37,10 @@ If you also love Minecraft like me and want to try something else I also made a 
 
 
 ### Water
-![media1](https://github.com/HorneOnne/PixelMiner_Build_a10b0/assets/65548001/3b2877cd-3834-499f-bb94-6282c63d6f0c)
+https://github.com/HorneOnne/PixelMiner_Build_a10b0/assets/65548001/82b3b1ae-97c5-4093-9c6a-a7d2fdd20c8b
 
-![media2](https://github.com/HorneOnne/PixelMiner_Build_a10b0/assets/65548001/a88161f9-bf75-4f82-a866-8a133fc3b32f)
+https://github.com/HorneOnne/PixelMiner_Build_a10b0/assets/65548001/97e40b90-1a28-45c8-a594-567518adf510
+
 
 ### Lava
 ![media3](https://github.com/HorneOnne/PixelMiner_Build_a10b0/assets/65548001/35caa63d-0644-4a7e-a35e-5c563facaa40)
