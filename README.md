@@ -43,9 +43,9 @@ https://github.com/HorneOnne/PixelMiner_Build_a10b0/assets/65548001/97e40b90-1a2
 
 
 ### Lava
-![media3](https://github.com/HorneOnne/PixelMiner_Build_a10b0/assets/65548001/35caa63d-0644-4a7e-a35e-5c563facaa40)
+https://github.com/HorneOnne/PixelMiner_Build_a10b0/assets/65548001/15c97f00-dce2-45e9-8342-284d49e01578
 
-![media4](https://github.com/HorneOnne/PixelMiner_Build_a10b0/assets/65548001/acce521f-2e54-4627-a7d3-55745353bd01)
+https://github.com/HorneOnne/PixelMiner_Build_a10b0/assets/65548001/5b4ee395-e18a-4fe1-b644-9eb7dcc512ae
 
 
 ### Lighting
