@@ -1,12 +1,23 @@
 # Pixel Miner (Build_a10b0)
 ## Overview
-As a long-time lover of Minecraft, I always try to work on my own voxel game and it was a lot of fun, also a lot of work though.
+- As a long-time lover of Minecraft, I always try to work on my own voxel game and it was a lot of fun, also a lot of work though.
 I'm still working on this from time to time and plan to add many features like creatures, a crafting system, inventory,...
 
-If you also love Minecraft like me and want to try something else I also made a Minecraft-like Inventory feel-like system. You can try at: https://github.com/HorneOnne/Item_Inventory_Crafting-system
+- If you also love Minecraft like me and want to try something else I also made a Minecraft-like Inventory feel-like system. You can try at: https://github.com/HorneOnne/Item_Inventory_Crafting-system
 
-If you want to see the progress of this project from scratch, see this old version of this game: https://github.com/HorneOnne/PixelMiner-Old-Version.git
+- If you want to see the progress of this project from scratch, see this old version of this game: https://github.com/HorneOnne/PixelMiner-Old-Version.git
 
+- Gameplay: https://www.youtube.com/watch?v=QKGQMv3j0HE
+
+- Profile: https://youtu.be/wbbB_8u8Aw0
+  + Specs:
+    + Device: Oppo A53 (2020)
+    + Chipset: Qualcomm SM4250 Snapdragon 460 (11 nm)
+    + CPU: Octa-core (4x1.8 GHz Kryo 240 & 4x1.6 GHz Kryo 240)
+    + GPU: Adreno 610
+    + Ram: 4GB (available 1GB)
+
+  
 ## Features
 - Multithreading world generation/meshing/lighting using Task Parallel Library (TPL).
 - Generation
