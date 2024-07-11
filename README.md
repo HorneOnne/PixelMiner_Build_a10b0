@@ -3,13 +3,13 @@
 - As a long-time lover of Minecraft, I always try to work on my own voxel game and it was a lot of fun, also a lot of work though.
 I'm still working on this from time to time and plan to add many features like creatures, a crafting system, inventory,...
 
-- If you also love Minecraft like me and want to try something else I also made a Minecraft-like Inventory feel-like system. You can try at: https://github.com/HorneOnne/Item_Inventory_Crafting-system
+- If you also love Minecraft like me and want to try something else I also made a Minecraft-like Inventory feel-like system. You can try it at: https://github.com/HorneOnne/Item_Inventory_Crafting-system
 
 - If you want to see the progress of this project from scratch, see this old version of this game: https://github.com/HorneOnne/PixelMiner-Old-Version.git
 
 - Gameplay: https://www.youtube.com/watch?v=QKGQMv3j0HE
 
-- Profile: https://youtu.be/wbbB_8u8Aw0
+- Profiler Report: https://youtu.be/wbbB_8u8Aw0
   + Specs:
     + Device: Oppo A53 (2020)
     + Chipset: Qualcomm SM4250 Snapdragon 460 (11 nm)
@@ -27,7 +27,7 @@ I'm still working on this from time to time and plan to add many features like c
   + Optimize transparent meshes using Greedy-meshing
 - Can add or remove blocks.
 - Block Light calculation
-   + 16-bit CPU base-lighting (Breadth-first search)
+   + 16-bit CPU based-lighting (Breadth-first search)
    + Support RGB color, as well as skylight
    + Voxel ambient occlusion
 - Physics:
@@ -36,6 +36,7 @@ I'm still working on this from time to time and plan to add many features like c
 - 3D A* pathfinding
 - Simple hotbar inventory
 - Water/lave flow generation/removal from source and physics
+
 
 ## Contents
 ### Biomes
